@@ -2,8 +2,8 @@
 
 Học kỳ x, Năm học 20xx-20xx
 
-**MSSV**: ...
+**MSSV**: B2306579
 
-**Họ tên SV**: ...
+**Họ tên SV**: Nguyễn Minh Thái
 
-**Lớp học phần**: ...
+**Lớp học phần**: Nhóm 01
